@@ -1,2 +1,4 @@
 # Dynamic-Programming
-Dynamic Programming Problems Implemented in Python
+Vast Variety Dynamic Programming Problems Implemented in Python
+
+Pull requests warmly welcomed if you spot issues with any of my solutions!
