@@ -9,9 +9,9 @@
 # if yes, then print the number. It is in-efficient but has constant extra space.
 
 # DP approach :
-# As we know every other number which is an ugly number can be easily computed by
-# again multiplying it with that prime factor. Thus going recursively and storing previous ugly numbers
-# will fetch us more ugly numbers. This approach is efficient that naive solution but has O(n) space requirement.
+# As we know, every other number which is an ugly number can be easily computed by
+# again multiplying it with that prime factor. So stor previous ugly numbers till we get n ugly numbers
+# This approach is efficient than naive solution but has O(n) space requirement.
 
 def ugly_numbers(n):
     
