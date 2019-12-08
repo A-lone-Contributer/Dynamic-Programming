@@ -2,8 +2,6 @@
 
 # Ugly numbers are the numbers whose prime factors are 2,3 or 5.
 
-# Of course as you might have thought that this can be solved without DP.
-
 # Normal Approach :
 # Run a loop till n and check if it has 2,3 or 5 as the only prime factors
 # if yes, then print the number. It is in-efficient but has constant extra space.
